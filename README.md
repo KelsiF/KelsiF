@@ -11,4 +11,4 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=KelsiF&theme=dark&background=000000"/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelsiF)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://my.spline.design/cubeaxiswebsiteupdatedinprod-c7eb2ea95c5e22c50b14b5333ee86583/"/>
+
