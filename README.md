@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python -->
 
-<div>
   <img src="https://komarev.com/ghpvc/?username=KelsiFe&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
@@ -13,4 +12,3 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelsiF)](https://github.com/anuraghazra/github-readme-stats)
   
-</div?
