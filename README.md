@@ -8,7 +8,6 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  :fire: My Stats : \n
-  
+  <h2>:fire: My Stats : </h2>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=KelsiF&theme=dark&background=000000"/>
 </div?
