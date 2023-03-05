@@ -10,7 +10,7 @@
   <h2>:fire: My Stats : </h2>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=KelsiF&theme=dark&background=000000"/>
   
-  [![KelsiF's GitHub stats](https://github-readme-stats.vercel.app/api?username=KelsiF)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelsiF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Links:
